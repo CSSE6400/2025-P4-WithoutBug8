@@ -2,6 +2,7 @@
 # CSSE6400 Week 4 Practical
 
 [English](README.md) | [简体中文Chinese](README_ZH.md)
+
 Deploying [Hextris](https://hextris.io/) to EC2 instances on AWS using both the AWS Console and Terraform.
 
 Please see the [instructions](https://csse6400.uqcloud.net/practicals/week04.pdf) for more details.
