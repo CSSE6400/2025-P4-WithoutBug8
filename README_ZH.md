@@ -10,7 +10,7 @@
 
      - 什么是instance(实例)：EC2 Instance就是在AWS上租的一台云服务器，我可以在网站上直接进行操作，显然你可以创建很多个instances
 
-       ![instance](/Users/bowen/Documents/Study/University of Queensland/CSSE6400 Software Architecture/Code/Task04/2025-P4-WithoutBug8/assets/instance.png)
+       ![instance](./assets/instance.png)
 
      - 那么这个控制台是干什么的？Cloud Lab控制台是用于访问，操作创建的instance用，**注意：这个console reset以后再start需要花费很多的时间，有时甚至会花费一晚上，所以对于接下来的作业一定要提前上线，不要拖到最后一天再完成。千万要留意这个AWS Academy Assignment Learner Lab [112082]和AWS Academy Practicals Learner Lab [110995]**
 
